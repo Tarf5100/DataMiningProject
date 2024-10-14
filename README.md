@@ -2,8 +2,7 @@ Recently, Heart diseases rate has been increased and it’s becoming more common
 
 In our project we will use two data mining tasks to help us predict the possibility of having heart diseases which are classification and clustering. For classification we will train our model to be able to classify if the patient has heart diseases or not based on a set of medical examinations. For the clustering our model will create a set of clusters for the patient who has similar characteristics, then these clusters will be used to predict new patients’ results.
 
-The results [target class] will divide the patients into two groups: those at risk of heart disease will be labeled 1 and those without symptoms will be labeled 0.
-
+Our class label is the target class which will divide the patients into two groups: those at risk of heart disease will be labeled 1 and those without symptoms will be labeled 0.
 
 • Tarfah Binmoammar | 444200611
 • Jomana Almihaimid | 444200755
