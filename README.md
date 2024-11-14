@@ -1,14 +1,30 @@
 
-Recently, Heart diseases rate has been increased and it’s becoming more common among people, which leads to many serious problems in people's lives that can be led to death. In our project, we will study and analyze patients’ data that will help us well in identifying possible factors and risks that lead to heart diseases and help many people to take precautions by predicting the possibility of having a heart disease.
+<h1>Heart Disease Prediction Project</h1>
 
-In our project we will use two data mining tasks to help us predict the possibility of having heart diseases which are classification and clustering. For classification we will train our model to be able to classify if the patient has heart diseases or not based on a set of medical examinations. For the clustering our model will create a set of clusters for the patient who has similar characteristics, then these clusters will be used to predict new patients’ results.
+<p>Recently, the rate of heart diseases has increased and it’s becoming more common among people. This leads to many serious issues in people's lives, often resulting in death. In our project, we aim to study and analyze patient data to identify possible factors and risks associated with heart diseases. This analysis will help many people take precautions by predicting the likelihood of developing heart disease.</p>
 
-Our class label is the target class which will divide the patients into two groups: those at risk of heart disease will be labeled 1 and those without symptoms will be labeled 0.
+<h2>Project Overview</h2>
+<p>Our project utilizes two data mining tasks—classification and clustering—to assist in predicting the likelihood of heart disease:</p>
 
-• Tarfah Binmoammar | 444200611
-• Jomana Almihaimid | 444200755
-• Aljawharah Alsaab | 444200860
-• Jawaher Alqhtani | 444200071 
-• jana Alzhrani | 444200619
-• Dalal Alyousef | 444203019
+<ul>
+  <li><strong>Classification:</strong> We will train our model to classify whether a patient has heart disease or not, based on a set of medical examinations.</li>
+  <li><strong>Clustering:</strong> Our model will create clusters of patients with similar characteristics, which can then be used to predict outcomes for new patients.</li>
+</ul>
+
+<p>The target class, or class label, will divide patients into two groups:</p>
+<ul>
+  <li>Patients at risk of heart disease, labeled as <strong>1</strong></li>
+  <li>Patients without symptoms, labeled as <strong>0</strong></li>
+</ul>
+
+<h2>Team Members</h2>
+<ul>
+  <li>Tarfah Binmoammar | 444200611</li>
+  <li>Jomana Almihaimid | 444200755</li>
+  <li>Aljawharah Alsaab | 444200860</li>
+  <li>Jawaher Alqhtani | 444200071</li>
+  <li>Jana Alzhrani | 444200619</li>
+  <li>Dalal Alyousef | 444203019</li>
+</ul>
+
 
