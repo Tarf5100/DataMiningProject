@@ -19,7 +19,7 @@
 
 <h2>Team Members</h2>
 <ul>
-  <li>Tarfah Binmoammar | 444200611</li>
+  <li>Tarfah Bin Moammar | 444200611</li>
   <li>Jomana Almihaimid | 444200755</li>
   <li>Aljawharah Alsaab | 444200860</li>
   <li>Jawaher Alqhtani | 444200071</li>
